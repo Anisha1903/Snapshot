@@ -2,7 +2,6 @@
   "name": "snapshot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yog9.github.io/SnapShot",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -38,5 +37,8 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
+  },
+  "engines": {
+    "node": "14.21.3"
   }
 }
