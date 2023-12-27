@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/Anisha1903/SnapShot.svg)](http://hits.dwyl.com/Anisha1903/SnapShot)
 
-[Demo of Snap Shot]()
+[Demo of Snap Shot] (https://658c73f426a4111f77d231f0--taupe-hotteok-0dc09b.netlify.app/#/SnapScout/mountain)
 
 
 ![](/snapshot.png)
