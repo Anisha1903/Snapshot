@@ -1,5 +1,3 @@
-# Snapshot
-
 [![Build Status](https://app.travis-ci.com/Anisha1903/Snapshot.svg?branch=main)](https://travis-ci.org/Anisha1903/SnapShot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/Anisha1903/SnapShot.svg)](http://hits.dwyl.com/Anisha1903/SnapShot)
