@@ -25,13 +25,13 @@ Create a config.js file in api folder inside src folders. In config.js file writ
 
 `yarn install`
 
-##### Build the Project
-
-`yarn build`
-
 ##### Run Snap Shot from the root directory.
 
 `yarn start`
+
+##### Build the Project
+
+`yarn build`
 
 This will launch the application in development mode. Open http://localhost:3000 in your browser to view it.
 
