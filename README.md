@@ -4,7 +4,6 @@
 
 Demo of Snapshot -https://658c73f426a4111f77d231f0--taupe-hotteok-0dc09b.netlify.app/#/SnapScout/mountain
 
-
 ![](/snapshot.png)
 
 ### Summary
